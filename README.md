@@ -16,19 +16,6 @@
 
 </div>
 
-ited Sol** — Islamabad, Pakistan
-- 🛒 &nbsp;Building and maintaining Shopify apps with Shopify's *Built for Shopify* standard
-- 🌍 &nbsp;**Open to international opportunities** — remote or relocation
-
----
-
-## Connect
-
-| | |
-|---|---|
-| 🌐 Portfolio | [acefolio.dev](https://acefolio.dev) |
-| 💼 LinkedIn | [dev-muhammad-atif](https://www.linkedin.com/in/dev-muhammad-atif/) |
-| 📬 Email | contact@acefolio.dev |
 
 
 
